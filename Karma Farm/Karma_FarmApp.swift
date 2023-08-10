@@ -13,5 +13,6 @@ struct Karma_FarmApp: App {
         WindowGroup {
             ContentView()
         }
+        # here are some updates
     }
 }
